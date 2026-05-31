@@ -1,4 +1,3 @@
-# synent-tasks
 GUI Calculator built using Python Tkinter with basic operations and user-friendly interface.
 # 🧮 GUI Calculator (Python)
 
